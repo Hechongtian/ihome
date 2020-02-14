@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pycharm
+GenericName=Pycharm3
+Comment=Pycharm3:The Python IDE
+Exec="/home/ubuntu/software/pycharm-2019.1.3/bin/pycharm.sh" %f
+Icon=/home/ubuntu/software/pycharm-2019.1.3/bin/pycharm.png
+Terminal=pycharm
+Categories=Pycharm;
